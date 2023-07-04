@@ -1,0 +1,2 @@
+<h1>Desafios de lógica e algoritmo propostos na disciplina de técnicas de desenvolvimento de algoritmos da faculdade Unipê</h1>
+<p>OBS: inicialmente esses desafios foram propostos para serem resolvidos em Visual, porém estou resolvendo em JS</p>
